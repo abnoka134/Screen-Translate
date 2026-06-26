@@ -10,9 +10,11 @@ cd Screen-Translate
 Tạo môi trường ảo
 
 `python -m venv env`
+
 Kích hoạt môi trường
 
 `env\Scripts\activate`
+
 Cài đặt thư viện
 
 `pip install -r requirements.txt`
