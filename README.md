@@ -8,10 +8,13 @@ git clone [https://github.com/abnoka134/Screen-Translate.git](https://github.com
 cd Screen-Translate
 ```
 Tạo môi trường ảo
+
 `python -m venv env`
 Kích hoạt môi trường
+
 `env\Scripts\activate`
 Cài đặt thư viện
+
 `pip install -r requirements.txt`
 
 3. Tải mô hình NLLB-200
