@@ -32,5 +32,7 @@ model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 ```
 
 4. Chạy chương trình
+
 Để chạy chương trình, sử dụng đoạn mã:
+
 `python main.py`
