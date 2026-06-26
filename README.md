@@ -1,7 +1,6 @@
-Hướng dẫn cài đặt
+HƯỚNG DẪN CÀI ĐẶT
 1. Yêu cầu
 - Python 3.8+
-
 2. Thiết lập môi trường
 ```
 # Clone dự án
@@ -16,6 +15,7 @@ Cài đặt thư viện
 `pip install -r requirements.txt`
 
 3. Tải mô hình NLLB-200
+
 Dự án sử dụng mô hình NLLB-200 từ Meta. Mô hình sẽ được tự động tải về máy khi chạy chương trình lần đầu tiên.
 Sử dụng đoạn mã Python sau:
 ```
